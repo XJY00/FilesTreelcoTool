@@ -14,3 +14,10 @@
 ### ./*.json
 
 程序会依赖.json配置文件来记录目录结构和图标配置
+
+### README.md
+
+Edit configurations on Windows to quickly create folder directory structures and set icons
+Custom images can be placed as folder icon candidates in this path
+Modify the app.ico file to customize the display icon of the program title bar
+The program will rely on the .json configuration file to record directory structure and icon configuration
