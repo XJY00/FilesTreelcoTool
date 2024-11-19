@@ -3,6 +3,7 @@
 在Windows上编辑配置来快速创建文件夹目录结构并设置图标
 
 ![](.\图标\readme0.png)
+![readme0](https://github.com/user-attachments/assets/80fd43b6-e163-4e5f-83e9-b53aca75e57c)
 
 ### ./图标
 
